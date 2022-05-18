@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou o João Oliveira
 
-- 🔭 Estudante de Informática para Internet
-- 🌱 Estudando Bootstrap
+<!--- 🔭 Estudante de Informática para Internet
+- 🌱 Estudando Bootstrap-->
 
 <div>
   <a href="https://github.com/joaoliveirapb">
