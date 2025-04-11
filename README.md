@@ -11,12 +11,14 @@
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+  <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="GitHub Gif" height="130" width="130" src="https://camo.githubusercontent.com/327903e0ca1461ca4f0682a721d0e1194544ecd1fa3b2f41cbdeba89bd90d2ba/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31302f34363839363138342d62363739666338302d636533302d313165382d383862662d3932316539623738386637632e6769663f726573697a653d323030253243323030">
 </div>
   
